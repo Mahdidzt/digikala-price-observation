@@ -1,0 +1,20 @@
+{
+  "name": "digikala-price-observation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digikala-price-observation.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Mahdi Rezazadeh",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.10",
+    "chromedriver": "^100.0.0",
+    "colors": "^1.4.0",
+    "geckodriver": "^3.0.1",
+    "selenium-webdriver": "^4.1.1",
+    "sound-play": "^1.1.0"
+  }
+}
